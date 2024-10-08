@@ -1,0 +1,32 @@
+/Library/
+/Logs/
+/Temp/
+/Build/
+/Build_SymbolFiles/
+/PS5 Packages/
+/PS4 Packages/
+/Recordings/
+/UserSettings/
+/SwitchIL2CPPCache/
+/SwitchIL2CPPStats/
+/MemoryCaptures/
+/obj/
+
+*.sln
+*.csproj
+*.csproj.user
+
+# Rider config files
+.idea/
+ProjectSettings/RiderScriptEditorPersistedState.asset
+*.sln.DotSettings.user
+*.log
+mono_crash.*
+
+# Visual Studio config files
+.vs/
+.vscode/
+
+# General user settings for Unity tools.
+Assets/EditorLocalResources/
+Assets/EditorLocalResources.meta
