@@ -1,0 +1,7 @@
+There's a document like this somewhere but I think it's on my desktop at work lol whoops.
+
+- try/catch inside a routine.
+
+- Compare size of allocation
+
+- You should probably actually still use UniTask.
